@@ -802,7 +802,7 @@ parse.mixcr <- function (.filename) {
   }
   
   swlist <- list('character', 'character',
-                 'integer', 'integer',
+                 'numeric', 'numeric',
                  'character', 'character', 'character',
                  'character', 'character', 'character',
                  'character', 'character', 'character')
